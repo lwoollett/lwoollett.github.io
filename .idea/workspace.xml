@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae694643-802b-4a8d-8537-27b9973a896c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/big-images/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/projects/thumb-images/thumb9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Kirillov.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="248" column="301" selection-start-line="248" selection-start-column="301" selection-end-line="248" selection-end-column="301" />
+            <state relative-caret-position="266">
+              <caret line="100" column="93" selection-start-line="100" selection-start-column="93" selection-end-line="100" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -129,7 +106,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3164000" />
+    <option name="totallyTimeSpent" value="3454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="-2" width="1922" height="1035" extended-state="6" />
@@ -170,8 +147,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="248" column="301" selection-start-line="248" selection-start-column="301" selection-end-line="248" selection-end-column="301" />
+        <state relative-caret-position="266">
+          <caret line="100" column="93" selection-start-line="100" selection-start-column="93" selection-end-line="100" selection-end-column="93" />
         </state>
       </provider>
     </entry>
