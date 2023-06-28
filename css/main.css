@@ -8,7 +8,7 @@
 	License: GNU General Public License version 3.0
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
 	Version: 1.0
-	
+
 	1. CSS Reset
 	2. Document Setup
 	3. Header Part
@@ -21,8 +21,8 @@
 	9. Contact Style
 	10.Footer Style
 	11.Responsive style
-		
-		
+
+
 --------------------------------------------------------------------------------/*
 
 /*----------------------------------------------------
@@ -55,7 +55,6 @@ body {
 
 a {
     text-decoration: none;
-    color: #fff;
     outline: none;
 }
 
